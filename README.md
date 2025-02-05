@@ -1,2 +1,4 @@
 # COMP-5600
-COMP 5600 - Artificial Intelligence
+COMP-5600 Projects
+
+Artificial Intelligence
